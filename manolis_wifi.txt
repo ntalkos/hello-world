@@ -1,0 +1,7 @@
+
+
+Thomson705D84
+gateway vageliws:	192.168.1.254
+mask:			255.255.255.0
+WEP KEY: 591EDB2B15
+mac-address:		58-98-35-6f-d2-c8
